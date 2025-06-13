@@ -2,7 +2,7 @@
 
 CAP_MAX = 1.0  # metros
 IMAGE_PATH = '/home/pi/Desktop/ejemplo.jpg'
-MODEL_PATH = 'keras_model.h5'
+MODEL_PATH = 'model/keras_model.h5'
 LABELS_PATH = 'labels .txt'
 
 TAPAS = {

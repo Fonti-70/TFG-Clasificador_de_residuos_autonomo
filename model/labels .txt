@@ -1,0 +1,5 @@
+0 botella
+1 lata
+2 Carton
+3 periodico
+4 vidreo

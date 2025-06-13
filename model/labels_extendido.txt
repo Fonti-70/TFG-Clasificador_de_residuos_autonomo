@@ -1,0 +1,7 @@
+0 botella
+1 lata
+2 Carton
+3 periodico
+4 vidreo
+5 noClasifica
+6 animal

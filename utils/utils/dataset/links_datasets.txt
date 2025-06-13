@@ -1,0 +1,8 @@
+El dataset usado han sido principalmente obtenidos de kaggle y de google imagenes mediante extensiones especializadas
+
+tambien se usaron varios datasets para hacer el fine-tuning
+
+link1 : https://www.kaggle.com/datasets/techsash/waste-classification-data
+link2 : https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+link3 : https://www.kaggle.com/datasets/wasifmahmood01/custom-waste-classification-dataset
+
